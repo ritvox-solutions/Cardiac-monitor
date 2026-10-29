@@ -1,0 +1,13 @@
+.git
+.github
+.venv
+.pytest_cache
+.ruff_cache
+/tests/
+/dataset/
+/ml/
+/reports/
+/docs/
+/trained_models/
+*.csv
+!app/ml/**

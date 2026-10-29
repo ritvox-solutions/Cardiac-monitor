@@ -1,0 +1,6 @@
+- [x] Create `mockSensorService.ts` with gradual data generation
+- [x] Add `USE_MOCK_DATA` flag to constants
+- [x] Update API services to use Mock Data when enabled
+- [x] Initialize Mock Service in `App.tsx`
+- [x] Adjust `LiveMonitoring` refresh rate for mock mode
+- [ ] Verify changes in the app
